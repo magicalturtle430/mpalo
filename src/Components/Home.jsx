@@ -40,8 +40,8 @@ const Home = ({ name, title }) => {
 };
 
 Home.defaultProps = {
-  name: "",
-  title: "",
+  name: "Marko",
+  title: "System Engineer",
 };
 
 Home.propTypes = {
