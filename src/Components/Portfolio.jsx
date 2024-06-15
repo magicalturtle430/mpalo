@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Learn TV - Run cognitive services on IoT edge - 19th October 2020",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "On the 19th October at 1PM PDT, 9PM BST, Marko Paloski, a Microsoft Learn Student Ambassador from Ss. Cyril and Methodius University in Skopje, North Macedonia, and Jim Bennett, a Cloud Advocate from Microsoft will livestream an in-depth walkthrough of how to run cognitive services on IoT Edge on Learn TV.",
+    url: "https://techcommunity.microsoft.com/t5/educator-developer-blog/learn-tv-run-cognitive-services-on-iot-edge-19th-october-2020/ba-p/1732799?WT.mc_id=learntv-social-jabenn",
   },
   {
-    title: "Web Development for Beginners",
+    title: "July IOT",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "July is the month for #IoT, if you want to start learning IoT now is the right time!",
+    url: "https://lnkd.in/eHCVQCN",
   },
   {
-    title: "My Resume Site",
+    title: "Microsoft #ImagineCupJunior 2021/22/23/24",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "I've been part of the ImagineCup Junior as Judge for 4 years in a row.",
+    url: "https://lnkd.in/e_gpGcy",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "The Final Report of the ELSA International Legal Research Group on Internet Censorship",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      " I took part in this project at the beginning of the year as one of the National Researchers for Macedonia, it was new and interesting experience to research and work on the legal things as technical person.",
+    url: "https://lnkd.in/e6Cncxa",
   },
 ];
 
